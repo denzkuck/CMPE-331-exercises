@@ -1,2 +1,2 @@
 # CMPE-331-exercises
-Author Name : DENİZ KÜÇÜK
+Author Name : DENİZ KÜÇÜK . 
